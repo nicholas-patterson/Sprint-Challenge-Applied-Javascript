@@ -1,6 +1,4 @@
-class Carousel {
-
-}
+class Carousel {}
 
 let carousel = document.querySelector();
 
